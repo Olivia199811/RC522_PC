@@ -112,7 +112,7 @@ line level    source
  100   1          delay_ms(2000);
  101   1          lcdInitinal();
  102   1          delay_ms(2);
- 103   1          lcdMsg("Óà¶î£º----",4,0);
+ 103   1          lcdMsg("wjh----",4,0);
  104   1          lcdMsg("¿¨ºÅ£º----",2,0);
  105   1          lcdMsg("Ïû·Ñ£º----",3,0);
  106   1          lcdMsg("×´Ì¬£º----",1,0);
